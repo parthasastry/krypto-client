@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 
-// const APIKEY = "XedXo1oPIEnQYXQcycLPZiJ3MqBv8X96"
 const API_KEY = process.env.REACT_APP_GIPHY_API_KEY;
 
 console.log("api key: ", API_KEY);
